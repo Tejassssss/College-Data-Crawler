@@ -83,7 +83,3 @@ Average Sat English: 670
 Average ACT: 31
 ---------------------------------------------------------
 ```
-
----
-
-Would you like me to rewrite this README in a more **professional GitHub style** (with sections like “Installation,” “Usage,” and “Disclaimer”)?
